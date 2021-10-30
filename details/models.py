@@ -21,5 +21,6 @@ class Book(models.Model):
     ]
     genere=models.CharField(max_length=2,choices=genere_choices)
     date_writed=models.DateField(blank=True,null=True,default=timezone.now)
+    score=models.IntegerField(verbose_name="score",default=0,blank=False)
     def __str__(self):
         return self.name

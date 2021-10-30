@@ -7,3 +7,4 @@ pip install django-bulk-update-or-create
 pip install django-extensions
 pip install IPython
 pip install django-celery-beat
+pip install flower
