@@ -1,0 +1,9 @@
+python -m pip install Django
+pip install psycopg2
+pip install djangorestframework
+pip install django-filter 
+pip install -U drf-yasg
+pip install django-bulk-update-or-create
+pip install django-extensions
+pip install IPython
+pip install django-celery-beat
