@@ -1,7 +1,6 @@
 # Flower and Celery Test Website
-<p align="center">
-  <img src="https://github.com/proshir/Django-Celery-Flower/assets/19504971/8dd6b65f-375d-4091-989f-8b4f4ae715be" alt="Flower and Celery Image">
-</p>
+
+![django celery flower](https://github.com/proshir/Django-Celery-Flower/assets/19504971/04c7b12c-af23-416b-87cf-47ca01e82856)
 
 ## Overview
 The Flower and Celery Test Website is a comprehensive RESTful API project that I developed during my work experience at Sorin Investment Group. This project served as an experimental playground to delve into the capabilities of Django, Celery, and Flower. It showcases the power of these technologies in the realm of asynchronous task processing and efficient background task management.
